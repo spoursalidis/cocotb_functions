@@ -11,14 +11,9 @@ Change to directory:
 cd cocotb_functions/
 ```
 
-Run setup.py:
+Install:
 ```
-python setup.py sdist
-```
-
-Move source files to python package library:
-```
-mv cocotb_functions/ /usr/local/lib/python3.10/dist-packages/
+python3 -m pip install -e 
 ```
 
 # 2 Usage in python script
