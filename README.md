@@ -13,7 +13,7 @@ cd cocotb_functions/
 
 Install:
 ```
-python3 -m pip install -e .
+pip install .
 ```
 
 # 2 Usage in python script
